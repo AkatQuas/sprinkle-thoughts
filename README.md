@@ -12,15 +12,17 @@
 
 本项目的 issue 也用作博客使用，记录一些想法。
 
-[计算机网络：自顶向下方法 Computer Networking: A Top-Down Approach, Fourth Edition](./network-top-down-approach/README.md)
+[计算机网络：自顶向下方法 Computer Networking: A Top-Down Approach, Fourth Edition](./network-top-down-approach)
 
 [数据库基础](./db)
 
-[C++ 对象模型](./cpp-object-model/README.md)
+[C++ 对象模型](./cpp-object-model)
 
-[编译原理](./compiler/README.md)
+[编译原理](./compiler)
 
 [算法分析](./algorithms)
+
+[Structure and Interpretation of Computer Programs](./sicp)
 
 - 线上图书资源:
 
